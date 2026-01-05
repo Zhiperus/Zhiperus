@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Zhiperus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Zhiperus, your Bossing! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <p>
     <a href="https://linkedin.com/in/iorie" target="_blank">
