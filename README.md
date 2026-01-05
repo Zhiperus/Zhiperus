@@ -28,10 +28,6 @@ I am a 3rd-year **Computer Science** student with a passion for anything *Learni
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-seven-orcin-15.vercel.app/api?username=Zhiperus&show_icons=true&rank_icon=percentile&theme=dracula&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats-seven-orcin-15.vercel.app/api/top-langs?username=Zhiperus&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
 </div>
 
