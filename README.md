@@ -15,13 +15,13 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Computer Science** student with a passion for anything *Learning* but specifically **Machine Learning**, **Computer Architecture**, and building useful apps like *PrepPAL* and *Elbi Bites*. When I'm not coding, I'm exploring **History** (ask me about the Third Rome!), **Philosophy**, or **Astrophysics**.
+I am a 3rd-year **Computer Science** student with a passion for anything *Learning* but specifically **Machine Learning**, **Computer Architecture**, and building useful apps like *PrepPAL* and *Elbi Bites*. When I'm not coding, I'm exploring **History** (ask me about the Third Rome!), **Philosophy**, or **Science**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,r,c,cpp,rust,html,css,git,react,neovim,vscode,linux&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,r,c,cpp,rust,spring,html,css,git,react,neovim,vscode,linux&perline=15" alt="Tech Stack" />
 </div>
 
 ---
